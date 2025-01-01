@@ -57,6 +57,7 @@ The client required a Road Accident Dashboard for 2021 and 2022 to gain insights
     - Personal email for further communication.
 
 ## Dashboard Interaction
+![Road Accident Dashboard](https://github.com/user-attachments/assets/a289e103-bcc9-4901-a358-fbabcb399375)
 
 
 ## Insights:
@@ -77,7 +78,7 @@ The client required a Road Accident Dashboard for 2021 and 2022 to gain insights
 7. Rural vs Urban:
   - Urban areas had 255.9K casualties, compared to 162.0K in rural areas.
 8. Monthly Trends:
-  -Casualties showed a steady increase from January to December, with peaks in mid-year months.
+  - Casualties showed a steady increase from January to December, with peaks in mid-year months.
 
 ## Conclusion
 - The Road Accident Analysis and Interactive Dashboard project provides a clear, interactive tool for analyzing road accident data.
